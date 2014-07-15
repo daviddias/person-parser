@@ -1,0 +1,14 @@
+{
+  "name": "person-parser",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "person-parser": "person-parser.js"
+  },
+  "main": "person-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Dias <daviddias.p@gmail.com>",
+  "license": "MIT"
+}
